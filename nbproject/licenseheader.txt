@@ -1,0 +1,8 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix} Created by: Kirby McKenzie | ID:6601021
+${licensePrefix} INFO323 Course Project 2016
+<#if licenseLast??>
+${licenseLast}
+</#if>
